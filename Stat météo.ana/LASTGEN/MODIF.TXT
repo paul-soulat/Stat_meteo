@@ -1,0 +1,9 @@
+//MO002-003.TXT ANA00002 TO ANA00003
+Pluviometrie		TAR	28	nouvelle taille enregistrement : 28
+Pluviometrie	Annee	TAI-	51	la rubrique Annee a comme nouvelle taille 0 au lieu de 51
+Pluviometrie	Mois	TAI-	51	la rubrique Mois a comme nouvelle taille 0 au lieu de 51
+Temperatures		TAR	42	nouvelle taille enregistrement : 42
+Temperatures	Annee	CLEN*		la rubrique Annee est maintenant une clé
+Temperatures	Annee	TAI-	46	la rubrique Annee a comme nouvelle taille 5 au lieu de 51
+Temperatures	Mois	CLEN*		la rubrique Mois est maintenant une clé
+Temperatures	Mois	TAI-	48	la rubrique Mois a comme nouvelle taille 3 au lieu de 51
